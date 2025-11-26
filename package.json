@@ -46,7 +46,7 @@
     "postcss": "^8.1.0"
   },
   "dependencies": {
-    "browserslist": "^4.23.0",
+    "browserslist": "^4.27.0",
     "caniuse-lite": "^1.0.30001599",
     "fraction.js": "^4.3.7",
     "normalize-range": "^0.1.2",
