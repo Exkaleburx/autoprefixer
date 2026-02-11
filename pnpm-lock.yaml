@@ -9,8 +9,8 @@ dependencies:
     specifier: ^4.23.0
     version: 4.23.0
   caniuse-lite:
-    specifier: ^1.0.30001599
-    version: 1.0.30001599
+    specifier: ^1.0.30001769
+    version: 1.0.30001769
   fraction.js:
     specifier: ^4.3.7
     version: 4.3.7
@@ -829,7 +829,7 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001599
+      caniuse-lite: 1.0.30001769
       electron-to-chromium: 1.4.712
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.23.0)
@@ -885,8 +885,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /caniuse-lite@1.0.30001599:
-    resolution: {integrity: sha512-LRAQHZ4yT1+f9LemSMeqdMpMxZcc4RMWdj4tiFe3G8tNkWK+E58g+/tzotb5cU6TbcVJLr4fySiAW7XmxQvZQA==}
+  /caniuse-lite@1.0.30001769:
+    resolution: {integrity: sha512-BCfFL1sHijQlBGWBMuJyhZUhzo7wer5sVj9hqekB/7xn0Ypy+pER/edCYQm4exbXj4WiySGp40P8UuTh6w1srg==}
     dev: false
 
   /chalk@4.1.2:
